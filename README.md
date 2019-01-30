@@ -1,0 +1,1 @@
+# my-eclipse-papyrus-p2
